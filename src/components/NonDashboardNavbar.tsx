@@ -36,6 +36,8 @@ const NonDashboardNavbar = () => {
           <span className="nondashboard-navbar__notification-indicator"></span>
           <Bell className="nondashboard-navbar__notification-icon" />
         </button>
+
+         
       </div>
     </nav>
   );
